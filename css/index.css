@@ -1,0 +1,16 @@
+.title {
+    margin: 10px;
+    text-align: center;
+}
+
+#recipe-list {
+    padding: 10px;
+    margin: 10px;
+}
+
+#recipe-list li {
+    padding: 5px;
+    background-color: aquamarine;
+    margin-bottom: 5px;
+}
+

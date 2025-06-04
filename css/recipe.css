@@ -1,0 +1,14 @@
+#recipe-title {
+    text-align: center;
+}
+
+#recipe-image {
+    display: block;
+    width: 400px;
+    margin: 0px auto;
+}
+
+#home-link {
+    display: block;
+    text-align: center;
+}
